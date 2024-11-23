@@ -55,7 +55,7 @@ nav > h1 {
 }
 .hero-section {
   height: 530px;
-  background-image: url("assets/bg\ img.jpg");
+  background-image: url("bg\ img.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -191,7 +191,7 @@ nav > h1 {
 .btn1 {
   width: 15%;
   height: 100%;
-  background-image: url("assets/trend\ 1.webp");
+  background-image: url("trend\ 1.webp");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -206,7 +206,7 @@ nav > h1 {
 .btn2 {
   width: 15%;
   height: 100%;
-  background-image: url("assets/td\ 2.webp");
+  background-image: url("td\ 2.webp");
   background-size: cover;
   background-position: center center;
   border: none;
@@ -219,7 +219,7 @@ nav > h1 {
 .btn3 {
   width: 15%;
   height: 100%;
-  background-image: url("assets/td\ 3.webp");
+  background-image: url("td\ 3.webp");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -233,7 +233,7 @@ nav > h1 {
 .btn4 {
   width: 15%;
   height: 100%;
-  background-image: url("assets/td\ 4.webp");
+  background-image: url("td\ 4.webp");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -247,7 +247,7 @@ nav > h1 {
 .btn5 {
   width: 15%;
   height: 100%;
-  background-image: url("assets/td\ 5.webp");
+  background-image: url("td\ 5.webp");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -261,7 +261,7 @@ nav > h1 {
 .btn6 {
   width: 15%;
   height: 100%;
-  background-image: url("assets/td\ 6.webp");
+  background-image: url("td\ 6.webp");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -314,7 +314,7 @@ nav > h1 {
 .btn7 {
   width: 15%;
   height: 100%;
-  background-image: url("assets/td\ 6.webp");
+  background-image: url("td\ 6.webp");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -328,7 +328,7 @@ nav > h1 {
 .btn8{
   width: 15%;
   height: 100%;
-  background-image: url("assets/td\ 5.webp");
+  background-image: url("td\ 5.webp");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -342,7 +342,7 @@ nav > h1 {
 .btn9 {
   width: 15%;
   height: 100%;
-  background-image: url("assets/td\ 4.webp");
+  background-image: url("td\ 4.webp");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -356,7 +356,7 @@ nav > h1 {
 .btn10 {
   width: 15%;
   height: 100%;
-  background-image: url("assets/trend\ 1.webp");
+  background-image: url("trend\ 1.webp");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -371,7 +371,7 @@ nav > h1 {
 .btn11 {
   width: 15%;
   height: 100%;
-  background-image: url("assets/td\ 2.webp");
+  background-image: url("td\ 2.webp");
   background-size: cover;
   background-position: center center;
   border: none;
@@ -384,7 +384,7 @@ nav > h1 {
 .btn12{
   width: 15%;
   height: 100%;
-  background-image: url("assets/td\ 3.webp");
+  background-image: url("td\ 3.webp");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -616,7 +616,6 @@ nav > h1 {
   font-size: 15px;
   display: flex;
   justify-content: space-between;
-  /* align-items: center; */
   text-decoration: underline;
  
 
